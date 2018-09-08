@@ -105,3 +105,6 @@ venv.bak/
 
 # Mac OS X
 .DS_Store
+
+# data from seminars
+/sem01_index/Friends
