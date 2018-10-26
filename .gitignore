@@ -109,6 +109,9 @@ venv.bak/
 # data from seminars
 /sem01_index/Friends
 /sem02_Web/Avito_Beauty_Corpus
+/sem02_Web/items_meta.csv
+/sem03_ranking/rankings
+/sem05_engine/qa_corpus.pkl
 /final_project/Avito_Beauty_Corpus
 /final_project/data
 /final_project/.idea
